@@ -1,6 +1,7 @@
 # Question: https://leetcode.com/problems/combination-sum/
 
 # This is a partial solution. only 121/160 work under time limit
+# I don't get why this is slower than the recursive solution
 
 from itertools import product
 
